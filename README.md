@@ -8,7 +8,7 @@ There's plenty of information on the Internet about the Game of Life. If you are
 
 This build is based on another Instructable by Sanuki Udon who created the code and project.
 
-My contribution is, I created a PCB and front panel for the project and have tweaked some of the parameters in the sketch to make the game run faster and longer.
+My contribution is; I created a PCB and front panel for the project and have tweaked some of the parameters in the sketch to make the game run faster and longer.  I also added a dufusser to the front of the LED's which I think gives more of a feeling that the cells are alive.
 
 Original Build on Instructables
 https://www.instructables.com/Conways-Life-of-Life-of-1616-Cells-Made-With-ATtin/
