@@ -13,7 +13,7 @@ My contribution is, I created a PCB and front panel for the project and have twe
 Original Build on Instructables
 https://www.instructables.com/Conways-Life-of-Life-of-1616-Cells-Made-With-ATtin/
 
-Wikipeadia
+Wikipedia
 https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
 Play Game of Life on line
