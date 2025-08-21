@@ -1,5 +1,8 @@
 # Game_of_Life_Attiny13
 
+![GOL](https://github.com/user-attachments/assets/ab6fc993-5127-49f7-96ff-d019d419f60b)
+
+
 The Game of Life is a cellular automation created by mathamatician John Conway. It's what is known as a zero player game, meaning that its evolution and game play is determined by its initial state and requires no further input. You interact with the Game of Life by creating an initial configuration and observing how it evolves.
 
 The game itself is based on a few, simple, mathematical rules consisting of a grid of cells that can either live, die or multiply. When the game is run, the cells can give the illusion (or are they alive...) that they are alive which is what makes this game so interesting.
