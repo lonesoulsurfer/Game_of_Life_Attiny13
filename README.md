@@ -17,7 +17,7 @@ Youtube Vid
 https://youtu.be/9KQFAfuK4dU
 
 Instructables (Step by step guide on how to build your own
-TBA
+https://www.instructables.com/Conways-Game-of-Life-Running-on-an-ATtiny13/
 
 Original Build on Instructables
 https://www.instructables.com/Conways-Life-of-Life-of-1616-Cells-Made-With-ATtin/
